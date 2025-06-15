@@ -4,7 +4,7 @@ This is a **simple responsive website** created using **HTML and CSS**.It is spe
 
 ## 📱 About the Project
 
-- This project focuses on **mobil-first design**.
+- This project focuses on **mobile-first design**.
 - The layout and styling are fully optimized for **small screen sizes**.
 - It is **not responsive** for tablets or desktops.
 - Kept simple and focused only on mobile.
@@ -26,6 +26,6 @@ This website is **not responsive for tablets or desktops**, and is best viewed o
 
 ## 📝 Note
 
-**This project is made for <u>educational purpose only.</u> All rights to the original Crunchyroll content belong to their respective owners**
+**This project is made for <u>educational purpose only.</u> All rights to the original Moooi content belong to their respective owners**
 
 
