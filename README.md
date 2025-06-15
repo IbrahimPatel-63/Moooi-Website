@@ -22,7 +22,7 @@ This is a **simple responsive website** created using **HTML and CSS**.It is spe
 
 ## ⚠️ Warning
 
-This website is **not responsive for tablets or desktops**, and is best viewed on a **mobile device**.
+This website is **not responsive for tablets or desktops**, and is best viewed on a **mobile device & laptops**.
 
 ## 📝 Note
 
